@@ -1,0 +1,22 @@
+
+{{#partial "contenido"}}
+
+    {{#with dispositivo}}
+        <form method="POST" action="/usuario/dispositivo/confirmarBaja/{{id}}">
+            <div class="form-group">
+                <label for="nombre"> Esta a punto de dar de baja el dispositivo: <font size="4" color="orange"> {{nombre}} {{equipoConcreto}} </font> </label>
+            	<br>
+            	<br>
+            	<label> Desea confirmar la operacion? </label>
+            </div>
+            
+	 <a class="btn btn-info btn-cancel" role="button" href="/usuario/dispositivo"> Volver </a>
+     <input class="btn btn-danger btn-confirm" type="submit" value="Confirmar">
+
+
+        </form>
+
+    {{/with}}
+{{/partial}}
+
+{{>home/usuario.hbs}}

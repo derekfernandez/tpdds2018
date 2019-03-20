@@ -1,0 +1,98 @@
+[
+  {
+    "nombre": "Ema",
+    "apellido": "Emma",
+    "identificacion": {
+      "tipoID": "DNI",
+      "numeroID": "48158457"
+    },
+    "telefono": 42781596,
+    "domicilio": {
+      "calle": "Av.X",
+      "altura": 1234,
+      "piso": 7,
+      "departamento": "a"
+    },
+    "fechaDeAlta": {
+      "year": 2018,
+      "month": 4,
+      "day": 27
+    },
+    "categoria": {
+      "cargoFijo": 18.76,
+      "cargoVariable": 0.644
+    },
+    "username": "emaema2016",
+    "dispositivos": [
+      {
+        "nombre": "Heladera",
+        "consumo": 100.0,
+        "encendido": false,
+        "consumoTotal": 0.0,
+        "horasDeUso": 0.0
+      },
+      {
+        "nombre": "Microondas",
+        "consumo": 50.0,
+        "encendido": false,
+        "consumoTotal": 0.0,
+        "horasDeUso": 0.0
+      },
+      {
+        "nombre": "Lavarropas",
+        "consumo": 34.0,
+        "encendido": false,
+        "consumoTotal": 0.0,
+        "horasDeUso": 0.0
+      }
+    ]
+  },
+  {
+    "nombre": "nombreASD",
+    "apellido": "apellidoASD",
+    "identificacion": {
+      "tipoID": "DNI",
+      "numeroID": "48158457"
+    },
+    "telefono": 4178965,
+    "domicilio": {
+      "calle": "Av.X",
+      "altura": 1234,
+      "piso": 7,
+      "departamento": "a"
+    },
+    "fechaDeAlta": {
+      "year": 2018,
+      "month": 4,
+      "day": 27
+    },
+    "categoria": {
+      "cargoFijo": 18.76,
+      "cargoVariable": 0.644
+    },
+    "username": "ASDASD99",
+    "dispositivos": [
+      {
+        "nombre": "Heladera",
+        "consumo": 100.0,
+        "encendido": false,
+        "consumoTotal": 0.0,
+        "horasDeUso": 0.0
+      },
+      {
+        "nombre": "Microondas",
+        "consumo": 50.0,
+        "encendido": false,
+        "consumoTotal": 0.0,
+        "horasDeUso": 0.0
+      },
+      {
+        "nombre": "Lavarropas",
+        "consumo": 34.0,
+        "encendido": false,
+        "consumoTotal": 0.0,
+        "horasDeUso": 0.0
+      }
+    ]
+  }
+]

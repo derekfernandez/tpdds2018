@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "AAAAA",
+    "apellido": "BBBBBB",
+    "usuario":"AAAAA",
+    "contraseña":"AAAAA",
+    "domicilio": {
+      "calle": "Av.X",
+      "altura": 1234,
+      "piso": 7,
+      "departamento": "a"
+    },
+    "fechaAlta": {
+      "year": 2016,
+      "month": 5,
+      "day": 18
+    },
+    "numId": 0
+  },
+  {
+    "nombre": "XXXX",
+    "apellido": "ZZZZ",
+    "usuario":"XXXX",
+    "contraseña":"XXXX",
+    "domicilio": {
+      "calle": "Av.X",
+      "altura": 1234,
+      "piso": 7,
+      "departamento": "a"
+    },
+    "fechaAlta": {
+      "year": 2014,
+      "month": 9,
+      "day": 20
+    },
+    "numId": 0
+  }
+]
